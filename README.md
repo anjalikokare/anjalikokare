@@ -80,49 +80,47 @@
 
 ### 🏥 Hospital Management System — V2 (MAD-II)
 
-✨ Role-based authentication  
-✨ Appointment booking & treatment history  
-✨ Admin / Doctor / Patient dashboards  
-✨ Celery + Redis background tasks  
-✨ Analytics & management features  
+▸ Role-based authentication (Admin / Doctor / Patient)  
+▸ Appointment booking & treatment tracking  
+▸ Dashboard with management tools  
+▸ Background processing using Celery + Redis  
+▸ Optimized APIs & analytics  
 
-`Python` `Flask` `SQLAlchemy` `Redis` `Celery`
+<sub>Python • Flask • SQLAlchemy • Redis • Celery</sub>
 
 <br>
 
 ### 🚗 Parking Management System
 
-✨ User & Admin authentication  
-✨ Auto slot allocation  
-✨ Reservation & cost calculation  
-✨ Revenue analytics dashboard  
+▸ User & Admin authentication  
+▸ Auto parking slot allocation  
+▸ Reservation & cost calculation  
+▸ Revenue dashboard & analytics  
 
-`Python` `Flask` `SQLite` `Bootstrap`
+<sub>Python • Flask • SQLite • Bootstrap</sub>
 
 <br>
 
 ### 👕 Sales & Inventory Analysis
 
-✨ Sales & profit analysis  
-✨ Seasonal demand insights  
-✨ Inventory optimization  
-✨ Business recommendations  
+▸ Sales & profit analysis  
+▸ Seasonal demand insights  
+▸ Product trend tracking  
+▸ Inventory optimization recommendations  
 
-`Python` `Pandas` `Excel` `Matplotlib`
+<sub>Python • Pandas • Excel • Matplotlib</sub>
 
 <br>
 
 ### 📚 Stationery Store Demand Analysis
 
-✨ Dead stock detection  
-✨ Demand forecasting  
-✨ Demand–supply analysis  
-✨ Stock planning insights  
+▸ Dead stock identification  
+▸ Demand–Supply analysis  
+▸ Product movement insights  
+▸ Data-driven business recommendations  
 
-`Python` `SQL` `Excel`
+<sub>Python • SQL • Excel</sub>
 
-
----
 
 <div align="center">
 
