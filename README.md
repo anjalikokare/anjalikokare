@@ -1,81 +1,166 @@
-Hi, I'm Anjali Kokare 👋  
-Data Science & Applications @ IIT Madras | Python • SQL • Data Analysis • ML  
-Building practical, data-driven applications and analytics projects
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:8A2BE2,100:00C9FF&height=280&section=header&text=Anjali%20Kokare&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Anjali Kokare</h1>
+
+<h3 align="center">
+Data Science & Applications @ IIT Madras
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Python+•+SQL+•+Data+Analysis+•+Machine+Learning;Building+Practical+Data+Driven+Applications;Always+Learning+and+Building+🚀"/>
+</p>
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
-🎓 Data Science & Applications student at IIT Madras  
-📊 Interested in Data Analysis, Business Analytics, and ML-based systems  
-🧠 Comfortable with Python, SQL, Excel, Pandas, NumPy, and data visualization  
-🛠 Built end-to-end web & data projects using Flask, SQLAlchemy, and relational databases  
-📈 Enjoy converting raw data into clear, actionable insights  
-📬 Reach me at: 24f2002015@ds.study.iitm.ac.in  
+🎓 Data Science & Applications student at **IIT Madras**  
 
----
+📊 Interested in **Data Analysis, Business Analytics & ML Systems**  
 
-🧰 Tech Stack
+🧠 Comfortable with **Python, SQL, Excel, Pandas, NumPy & Data Visualization**  
 
-**Languages**  
-Python | SQL | HTML | CSS  
+🛠 Built end-to-end **Web + Data Projects using Flask, SQLAlchemy & Databases**  
 
-**Libraries / Frameworks**  
-Pandas | NumPy | Matplotlib | Seaborn | Flask | SQLAlchemy  
+📈 Passionate about converting raw data into clear business insights  
 
-**Databases / Data**  
-SQLite | PostgreSQL | Excel  
-
-**Other Tools**  
-Git | GitHub | VS Code | Jupyter Notebook  
+📬 Reach me at:  
+**24f2002015@ds.study.iitm.ac.in**
 
 ---
 
-📌 Featured Projects
+## 🧰 Tech Stack
 
-🔹 **Hospital Management System – V2 (MAD-II)**  
-A full-scale role-based hospital management web application  
-• Designed relational database models for Users, Doctors, Patients, Appointments & Treatments  
-• Implemented role-based authentication (Admin / Doctor / Patient) with dedicated dashboards  
-• Built appointment booking, rescheduling, conflict prevention & treatment history tracking  
-• Developed Admin, Doctor & Patient dashboards with search and management features  
-• Integrated background jobs using Celery + Redis for reminders, reports & async CSV exports  
-• Optimized APIs using Redis caching for high-frequency endpoints  
-**Tech:** Python, Flask, SQLAlchemy, SQLite, Redis, Celery, Bootstrap  
+<p align="center">
 
-🔹 **Parking Management System (Flask App)**  
-A complete web application for parking slot allocation and billing  
-• User & Admin authentication  
-• Auto slot allocation, release, and cost calculation with timestamps  
-• Dashboard with usage and revenue analytics  
-**Tech:** Flask, Python, SQLite, SQLAlchemy, Bootstrap  
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,postgres,git,github,vscode,html,css"/>
 
-🔹 **Sales & Inventory Analysis – Rural Clothing Store**  
-Business-focused data analysis for a rural B2C clothing store  
-• One-year sales, expense, and profit analysis  
-• Seasonal demand and product popularity insights  
-• Inventory optimization recommendations  
-**Tech:** Python, Pandas, Excel, Matplotlib  
+</p>
 
-🔹 **Stationery Store Demand Analysis (BDM Capstone)**  
-Data analysis project for a rural stationery store near a school  
-• Identified dead stock and fast-moving items  
-• Demand–supply mismatch analysis  
-• Actionable business insights for stock planning  
-**Tech:** Python, SQL, Excel  
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+</p>
 
 ---
 
-📈 GitHub Activity
+# 📌 Featured Projects
 
-• Regular commits on academic, backend, and data projects  
-• Focus on clean code, documentation, and structured repositories  
+## 🏥 Hospital Management System – V2 (MAD-II)
+
+✔ Role-based Hospital Management System  
+
+✔ Admin / Doctor / Patient dashboards  
+
+✔ Appointment booking & treatment history  
+
+✔ Celery + Redis integration  
+
+✔ Redis caching for optimization  
+
+**Tech:**  
+Python • Flask • SQLAlchemy • SQLite • Redis • Celery • Bootstrap
 
 ---
 
-🔗 Connect With Me
+## 🚗 Parking Management System
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-GitHub: https://github.com/24f2002015  
+✔ User & Admin Authentication  
 
-⭐ Thanks for visiting — always learning, building, and improving 🚀
+✔ Auto Slot Allocation  
+
+✔ Revenue Analytics Dashboard  
+
+✔ Cost Calculation System  
+
+**Tech:**  
+Flask • Python • SQLite • SQLAlchemy • Bootstrap
+
+---
+
+## 👕 Sales & Inventory Analysis – Rural Clothing Store
+
+✔ One-year sales & profit analysis  
+
+✔ Seasonal demand insights  
+
+✔ Inventory optimization  
+
+**Tech:**  
+Python • Pandas • Excel • Matplotlib
+
+---
+
+## 📚 Stationery Store Demand Analysis
+
+✔ Dead stock detection  
+
+✔ Demand–Supply Analysis  
+
+✔ Business recommendations  
+
+**Tech:**  
+Python • SQL • Excel
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=24f2002015&show_icons=true&theme=radical"/>
+
+<img height="180"
+src="https://github-readme-streak-stats.herokuapp.com/?user=24f2002015&theme=radical"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2002015&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/24f2002015">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting ⭐
+
+<br>
+
+🚀 Always Learning • Building • Improving
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8A2BE2,100:FF69B4&height=140&section=footer"/>
