@@ -120,10 +120,10 @@ Python • SQL • Excel
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=24f2002015&show_icons=true&theme=radical"/>
+src="https://github-readme-stats.vercel.app/api?username=anjalikokare&show_icons=true&theme=radical"/>
 
 <img height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=24f2002015&theme=radical"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikokare&theme=radical"/>
 
 </p>
 
@@ -131,7 +131,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=24f2002015&theme=rad
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2002015&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikokare&layout=compact&theme=radical"/>
 
 </p>
 
@@ -141,7 +141,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=24f2002015&theme=rad
 
 <p align="center">
 
-<a href="https://github.com/24f2002015">
+<a href="https://github.com/anjalikokare">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
