@@ -78,72 +78,49 @@
 
 # 📌 Featured Projects
 
-<br>
-
 ### 🏥 Hospital Management System — V2 (MAD-II)
 
 ✨ Role-based authentication  
-✨ Appointment management  
-✨ Treatment history  
-✨ Celery + Redis integration  
-✨ Dashboard & analytics  
+✨ Appointment booking & treatment history  
+✨ Admin / Doctor / Patient dashboards  
+✨ Celery + Redis background tasks  
+✨ Analytics & management features  
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Redis-red?style=flat-square"/>
-
-</p>
+`Python` `Flask` `SQLAlchemy` `Redis` `Celery`
 
 <br>
 
 ### 🚗 Parking Management System
 
-✨ Slot allocation  
-✨ Reservation system  
-✨ Revenue analytics  
-✨ Cost calculation  
+✨ User & Admin authentication  
+✨ Auto slot allocation  
+✨ Reservation & cost calculation  
+✨ Revenue analytics dashboard  
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLite-blue?style=flat-square"/>
-
-</p>
+`Python` `Flask` `SQLite` `Bootstrap`
 
 <br>
 
 ### 👕 Sales & Inventory Analysis
 
-✨ Sales analysis  
-✨ Seasonal insights  
+✨ Sales & profit analysis  
+✨ Seasonal demand insights  
 ✨ Inventory optimization  
-✨ Revenue improvement  
+✨ Business recommendations  
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Excel-green?style=flat-square"/>
-
-</p>
+`Python` `Pandas` `Excel` `Matplotlib`
 
 <br>
 
 ### 📚 Stationery Store Demand Analysis
 
-✨ Dead stock analysis  
+✨ Dead stock detection  
 ✨ Demand forecasting  
-✨ Business recommendations  
+✨ Demand–supply analysis  
+✨ Stock planning insights  
 
-<p align="center">
+`Python` `SQL` `Excel`
 
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-purple?style=flat-square"/>
-
-</p>
-
-<br>
 
 ---
 
