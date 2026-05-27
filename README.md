@@ -4,142 +4,102 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=950&lines=Hi+👋+I'm+Anjali+Kokare;Data+Science+%26+Applications+@+IIT+Madras;Building+Practical+Data+Driven+Projects+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=950&lines=Hi+👋+I'm+Anjali+Kokare;Data+Science+%26+Applications+@+IIT+Madras;Building+Practical+Data+Projects+🚀"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/SQL-A855F7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/DATA_ANALYSIS-EC4899?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-06B6D4?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=EC4899&height=2"/>
-
 # 🚀 About Me
 
-🌌 Data Science & Applications student @ IIT Madras  
+🌌 Data Science & Applications student @ IIT Madras
 
-📊 Interested in Data Analytics • Business Analytics • ML Systems  
+📊 Interested in Data Analytics • Business Analytics • ML
 
-🧠 Comfortable with Python • SQL • Pandas • NumPy • Excel  
+🧠 Python • SQL • Pandas • NumPy • Excel
 
-🛠 Building Web + Data Projects using Flask & SQLAlchemy  
+🛠 Building Flask + SQLAlchemy Projects
 
-📈 Passionate about converting data into decisions  
+📈 Converting raw data → decisions
 
-📬 Reach me at: **24f2002015@ds.study.iitm.ac.in**
+📬 24f2002015@ds.study.iitm.ac.in
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2"/>
+<div align="center">
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,sqlite,git,github,vscode,html,css"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
-### Languages
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<br><br>
-
-### Libraries & Frameworks
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy"/>
-
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery"/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<br><br>
-
-### Databases & Tools
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2"/>
-
 # 📌 Featured Projects
 
-### 🏥 Hospital Management System — MAD II
+### 🏥 Hospital Management System
 
 ✨ Role Based Authentication  
-✨ Admin / Doctor / Patient Dashboard  
 ✨ Appointment Management  
-✨ Celery + Redis Integration  
+✨ Celery + Redis  
+✨ Admin Dashboard
 
 ---
 
 ### 🚗 Parking Management System
 
-✨ User Authentication  
-✨ Reservation System  
 ✨ Slot Allocation  
-✨ Analytics Dashboard  
+✨ Reservation System  
+✨ Analytics Dashboard
 
 ---
 
 ### 👕 Sales & Inventory Analysis
 
-✨ Revenue Insights  
-✨ Seasonal Trends  
-✨ Inventory Optimization  
+✨ Seasonal Demand  
+✨ Revenue Analytics  
+✨ Inventory Optimization
 
 ---
-
-### 📚 Stationery Demand Analysis
-
-✨ Dead Stock Detection  
-✨ Demand Forecasting  
-✨ Business Insights  
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2"/>
-
-# 📈 GitHub Activity
 
 <div align="center">
+
+# 📈 GitHub Glow
 
 <img height="180"
 src="https://github-readme-stats.vercel.app/api?username=anjalikokare&show_icons=true&theme=tokyonight&border_color=A855F7"/>
 
 <img height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikokare&theme=tokyonight&ring=EC4899&fire=A855F7"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikokare&theme=tokyonight&ring=EC4899&fire=A855F7&currStreakLabel=38BDF8"/>
 
 </div>
 
@@ -154,22 +114,20 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikokare
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=2"/>
-
-# 🌐 Connect With Me
-
 <div align="center">
 
+## 🌐 Connect
+
 <a href="https://github.com/anjalikokare">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/anjali-kokare-645488382/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
 
 <a href="https://www.kaggle.com/anjalikokare">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge"/>
 </a>
 
 </div>
@@ -179,8 +137,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikokare
 <div align="center">
 
 ### ✨ BUILD • LEARN • SHARE • IMPACT ✨
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
