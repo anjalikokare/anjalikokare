@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anjali%20Kokare&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%26%20Applications%20%40%20IIT%20Madras&descAlignY=58&descSize=20" width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:00F5FF&height=200&section=header&text=Anjali%20Kokare&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%26%20Applications%20%40%20IIT%20Madras&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Anjali+Kokare;Data+Science+%40+IIT+Madras+%F0%9F%9A%80;Python+%7C+SQL+%7C+Flask+%7C+ML;Building+data-driven+solutions+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24f2002015)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjalikokare)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24f2002015@ds.study.iitm.ac.in)
 [![IIT Madras](https://img.shields.io/badge/IIT%20Madras-003087?style=for-the-badge&logo=academia&logoColor=white)](https://study.iitm.ac.in/)
 
@@ -154,13 +148,13 @@ Data-driven insights for a rural stationery store near a school.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24f2002015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=A855F7&text_color=FFFFFF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anjalikokare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=A855F7&text_color=FFFFFF" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2002015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikokare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=24f2002015&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=00F5FF" height="160"/>
+<img src="https://streak-stats.demolab.com?user=anjalikokare&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=00F5FF" height="160"/>
 
 </div>
 
@@ -168,7 +162,7 @@ Data-driven insights for a rural stationery store near a school.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:EC4899,100:8B5CF6&height=100&section=footer&animation=twinkling" width="100%"/>
 
 **⭐ Thanks for visiting — always learning, building, and improving 🚀**
 
