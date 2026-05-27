@@ -98,53 +98,138 @@
 
 ---
 
-# 📌 Featured Projects
-
-### 🏥 Hospital Management System
-
-✨ Role Based Authentication  
-✨ Appointment Management  
-✨ Celery + Redis  
-✨ Admin Dashboard
-
----
-
-### 🚗 Parking Management System
-
-✨ Slot Allocation  
-✨ Reservation System  
-✨ Analytics Dashboard
-
----
-
-### 👕 Sales & Inventory Analysis
-
-✨ Seasonal Demand  
-✨ Revenue Analytics  
-✨ Inventory Optimization
-
 ---
 
 <div align="center">
 
-# 📈 GitHub Glow
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=anjalikokare&show_icons=true&theme=tokyonight&border_color=A855F7"/>
-
-<img height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikokare&theme=tokyonight&ring=EC4899&fire=A855F7&currStreakLabel=38BDF8"/>
+# 📌 Featured Projects
 
 </div>
 
 <br>
 
+## 🏥 Hospital Management System – V2 (MAD-II)
+
+A full-scale **role-based Hospital Management Web Application** designed for managing patients, appointments and treatments efficiently.
+
+✨ Designed relational database models for:
+- Users
+- Doctors
+- Patients
+- Appointments
+- Treatments
+
+✨ Implemented:
+- Admin / Doctor / Patient authentication
+- Dedicated dashboards for each role
+- Search & management functionality
+
+✨ Built:
+- Appointment booking system
+- Rescheduling workflow
+- Conflict prevention logic
+- Treatment history tracking
+
+✨ Performance Enhancements:
+- Celery + Redis integration
+- Background reminders
+- Async CSV exports
+- Redis caching for faster endpoints
+
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikokare&layout=compact&theme=tokyonight&border_color=06B6D4"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-red?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-green?style=flat-square)
 
 </div>
+
+---
+
+## 🚗 Parking Management System
+
+A complete **web-based Parking Management Platform** focused on automation and analytics.
+
+✨ Features:
+- User & Admin authentication
+- Auto parking slot allocation
+- Reservation & release system
+- Cost calculation using timestamps
+- Revenue dashboard
+- Usage analytics
+
+✨ Additional:
+- Booking history
+- Dashboard visualization
+- Efficient slot utilization
+
+<div align="center">
+
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square)
+
+</div>
+
+---
+
+## 👕 Sales & Inventory Analysis – Rural Clothing Store
+
+Business-focused **data analytics project** for improving sales and inventory efficiency.
+
+✨ Analysis Included:
+- One-year sales tracking
+- Expense & profit analysis
+- Seasonal demand patterns
+- Product popularity insights
+- Customer purchasing trends
+
+✨ Recommendations:
+- Inventory optimization
+- Revenue improvement
+- Demand forecasting
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat-square)
+
+</div>
+
+---
+
+## 📚 Stationery Store Demand Analysis (BDM Capstone)
+
+Data-driven analysis project for a **rural stationery store** to improve business decisions.
+
+✨ Work Done:
+- Dead stock identification
+- Fast-moving product detection
+- Demand–supply analysis
+- Sales pattern study
+- Business recommendations
+
+✨ Outcome:
+- Better stock planning
+- Reduced inventory waste
+- Improved store performance
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-purple?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat-square)
+
+</div>
+
+---
 
 ---
 
