@@ -1,37 +1,60 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:8A2BE2,100:00C9FF&height=280&section=header&text=Anjali%20Kokare&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:06B6D4&height=300&section=header&text=Anjali%20Kokare&fontSize=58&fontColor=ffffff&animation=fadeIn"/>
+
 </p>
 
-<h1 align="center">Hi 👋 I'm Anjali Kokare</h1>
+<h1 align="center">
+
+✨ Hi 👋 I'm Anjali Kokare ✨
+
+</h1>
 
 <h3 align="center">
+
 Data Science & Applications @ IIT Madras
+
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Python+•+SQL+•+Data+Analysis+•+Machine+Learning;Building+Practical+Data+Driven+Applications;Always+Learning+and+Building+🚀"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Python+•+SQL+•+Data+Analysis+•+Machine+Learning;Building+Practical+Data+Driven+Applications;Learn+→+Build+→+Share+→+Impact+🚀"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-A855F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-EC4899?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Data Science & Applications student at **IIT Madras**  
+🎓 Data Science & Applications student at **IIT Madras**
 
-📊 Interested in **Data Analysis, Business Analytics & ML Systems**  
+📊 Interested in **Data Analysis • Business Analytics • ML Systems**
 
-🧠 Comfortable with **Python, SQL, Excel, Pandas, NumPy & Data Visualization**  
+🧠 Comfortable with **Python, SQL, Excel, Pandas, NumPy & Visualization**
 
-🛠 Built end-to-end **Web + Data Projects using Flask, SQLAlchemy & Databases**  
+🛠 Building **Web + Data Projects using Flask & SQLAlchemy**
 
-📈 Passionate about converting raw data into clear business insights  
+📈 Turning raw data into useful insights
 
-📬 Reach me at:  
-**24f2002015@ds.study.iitm.ac.in**
+📬 **24f2002015@ds.study.iitm.ac.in**
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <p align="center">
 
@@ -41,15 +64,15 @@ Data Science & Applications @ IIT Madras
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
 
 </p>
 
@@ -57,96 +80,80 @@ Data Science & Applications @ IIT Madras
 
 # 📌 Featured Projects
 
-## 🏥 Hospital Management System – V2 (MAD-II)
+### 🏥 Hospital Management System – V2
 
-✔ Role-based Hospital Management System  
-
-✔ Admin / Doctor / Patient dashboards  
-
-✔ Appointment booking & treatment history  
-
-✔ Celery + Redis integration  
-
-✔ Redis caching for optimization  
-
-**Tech:**  
-Python • Flask • SQLAlchemy • SQLite • Redis • Celery • Bootstrap
+✨ Role-based Authentication  
+✨ Admin / Doctor / Patient Dashboard  
+✨ Appointments + Treatment Tracking  
+✨ Celery + Redis
 
 ---
 
-## 🚗 Parking Management System
+### 🚗 Parking Management System
 
-✔ User & Admin Authentication  
-
-✔ Auto Slot Allocation  
-
-✔ Revenue Analytics Dashboard  
-
-✔ Cost Calculation System  
-
-**Tech:**  
-Flask • Python • SQLite • SQLAlchemy • Bootstrap
+✨ Slot Allocation  
+✨ Revenue Dashboard  
+✨ Cost Analytics
 
 ---
 
-## 👕 Sales & Inventory Analysis – Rural Clothing Store
+### 👕 Sales & Inventory Analysis
 
-✔ One-year sales & profit analysis  
-
-✔ Seasonal demand insights  
-
-✔ Inventory optimization  
-
-**Tech:**  
-Python • Pandas • Excel • Matplotlib
+✨ Seasonal Demand Insights  
+✨ Inventory Optimization
 
 ---
 
-## 📚 Stationery Store Demand Analysis
+### 📚 Stationery Store Analysis
 
-✔ Dead stock detection  
-
-✔ Demand–Supply Analysis  
-
-✔ Business recommendations  
-
-**Tech:**  
-Python • SQL • Excel
+✨ Dead Stock Detection  
+✨ Demand–Supply Analytics
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub Analytics
 
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=anjalikokare&show_icons=true&theme=radical"/>
+src="https://github-readme-stats.vercel.app/api?username=anjalikokare&show_icons=true&theme=tokyonight&border_color=A855F7"/>
 
 <img height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikokare&theme=radical"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikokare&theme=tokyonight&ring=EC4899&fire=A855F7"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikokare&layout=compact&theme=tokyonight&border_color=06B6D4"/>
 
 </p>
 
 ---
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikokare&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/anjalikokare">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/anjali-kokare-645488382/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://www.kaggle.com/anjalikokare">
+
+<img src="https://img.shields.io/badge/Kaggle-06B6D4?style=for-the-badge&logo=kaggle"/>
+
 </a>
 
 </p>
@@ -155,12 +162,12 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikokare&theme=r
 
 <p align="center">
 
-⭐ Thanks for visiting ⭐
-
-<br>
-
-🚀 Always Learning • Building • Improving
+⭐ Always Learning • Building • Improving ⭐
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8A2BE2,100:FF69B4&height=140&section=footer"/>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:A855F7,100:EC4899&height=140&section=footer"/>
+
+</p>
